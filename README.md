@@ -3,7 +3,7 @@ java-readability-client
 
 Very simple java web client for handling readability api, It's very simple.
 
-Just edit the com.readability.client.ReadabilityConstants.java file, input your key and secret:
+Git clone it,then import int Eclipse,and edit the com.readability.client.ReadabilityConstants.java file, input your key and secret:
 
   protected static final String consumerKey = "your key here";
   
